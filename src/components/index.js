@@ -13,7 +13,6 @@ import SectionHero from './SectionHero';
 import SectionPortfolio from './SectionPortfolio';
 import SectionPosts from './SectionPosts';
 import SectionTestimonials from './SectionTestimonials';
-import 
 
 export {
     Action,
