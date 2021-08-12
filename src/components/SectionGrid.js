@@ -8,8 +8,8 @@ export default class SectionGrid extends React.Component {
     renderGridItem(gridItem, index, isNumbered) {
         const title = _.get(gridItem, 'title');
         const content = _.get(gridItem, 'content');
-        //const image = _.get(gridItem, 'image');
-        //const imageAlt = _.get(gridItem, 'image_alt', '');
+        const image = _.get(gridItem, 'image');
+        const imageAlt = _.get(gridItem, 'image_alt', '');
         const actions = _.get(gridItem, 'actions');
 
         return (
