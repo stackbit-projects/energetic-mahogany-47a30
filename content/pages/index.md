@@ -20,7 +20,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
+  - 
     type: section_grid
     title: What We Do
     subtitle: An optional subtitle of the section
