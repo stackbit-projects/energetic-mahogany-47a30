@@ -74,8 +74,8 @@ sections:
         avatar_alt: Deegan Wallace's photo
         content: >-
             hello
-            
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+
+          Sedd laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
       - author: Deegan Wallace
         avatar_alt: Deegan Wallace's photo
